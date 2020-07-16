@@ -1,6 +1,8 @@
 
 ### 👋 ⚛️ React Lover is on fire
 
+https://www.linkedin.com/in/gislenecarvalho/
+
 <!--
 **gislenescarvalho/gislenescarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
