@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gislene Carvalho</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<img align='right' src="https://giphy.com/gifs/coding-programmer-woman-coding-N9a6hDAZsszvgrJd7M" width="230">
+<h3 align="center">A passionate frontend developer from Brazil <img src="https://tenor.com/view/woman-technologist-people-joypixels-technologist-tech-woman-gif-17523486" width="30"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gislenescarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="gislenescarvalho" /> </p>
 
