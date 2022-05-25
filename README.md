@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/gislenejs" target="blank"><img src="https://img.shields.io/twitter/follow/gislenejs?logo=twitter&style=for-the-badge" alt="gislenejs" /></a> </p>
 
-- 🌱 I’m currently learning **python, data science tools, advanced javascript features**
+- 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools**
 
-- 💬 Ask me about **javascript, react, css3, html5, front-end development**
+- 💬 Ask me about **javascript, react, react hooks, css3, html5, front-end development**
 
 - 📫 How to reach me **gicarvalho89@gmail.com**
 
