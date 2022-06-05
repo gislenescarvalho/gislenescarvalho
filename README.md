@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Gislene Carvalho</h1>
 <h3 align="center"> A passionate brazilian frontend developer </h3>
 
+<a align="center" href="https://app.daily.dev/gscarvalho"><img src="https://api.daily.dev/devcards/f712d2f275d54a45913034c3afb6ee37.png?r=kno" width="250" alt="Gislene Carvalho's Dev Card"/></a> 
+
 - 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools and Kotlin programming language**
 
 - 💬 Ask me about **javascript, react, react hooks, css3, html5, front-end development**
@@ -16,6 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gislenescarvalho&show_icons=true&locale=en&layout=compact" alt="gislenescarvalho" /></p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gislenescarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="gislenescarvalho" /> </p>
-   
-<a href="https://app.daily.dev/gscarvalho"><img src="https://api.daily.dev/devcards/f712d2f275d54a45913034c3afb6ee37.png?r=kno" width="250" alt="Gislene Carvalho's Dev Card"/></a> 
+
  
