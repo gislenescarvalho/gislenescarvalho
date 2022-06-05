@@ -17,5 +17,5 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gislenescarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="gislenescarvalho" /> </p>
    
-<a href="https://app.daily.dev/gscarvalho"><img src="https://api.daily.dev/devcards/f712d2f275d54a45913034c3afb6ee37.png?r=kno" width="400" alt="Gislene Carvalho's Dev Card"/></a> 
+<a href="https://app.daily.dev/gscarvalho"><img src="https://api.daily.dev/devcards/f712d2f275d54a45913034c3afb6ee37.png?r=kno" width="250" alt="Gislene Carvalho's Dev Card"/></a> 
  
