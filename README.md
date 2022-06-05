@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gislene Carvalho</h1>
+<a align='left' href="https://app.daily.dev/gscarvalho"><img src="https://api.daily.dev/devcards/f712d2f275d54a45913034c3afb6ee37.png?r=kno" width="400" alt="Gislene Carvalho's Dev Card"/></a>
 <img align='right' src="https://media.giphy.com/media/N9a6hDAZsszvgrJd7M/giphy.gif" width="480">
 <h3 align="center">A passionate brazilian frontend developer</h3>
 
@@ -23,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gislenescarvalho&show_icons=true&locale=en&layout=compact" alt="gislenescarvalho" /></p>
 
-<a href="https://app.daily.dev/gscarvalho"><img src="https://api.daily.dev/devcards/f712d2f275d54a45913034c3afb6ee37.png?r=kno" width="400" alt="Gislene Carvalho's Dev Card"/></a>
+
