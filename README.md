@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Gislene Carvalho</h1>
-<h3 align="center"> A passionate brazilian frontend developer </h3>
+<h2 align="center"> A passionate brazilian frontend developer </h3> <br/>
 
-- 💻 Senior Frontend Developer at [SOUTH SYSTEM](https://southsystem.com.br/)<br>
-
-- 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools and Kotlin programming language**
-
-- 💬 Ask me about **javascript, react, react hooks, css3, html5, front-end development**
-
-- 📫 How to reach me **gicarvalho89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +10,18 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gislenescarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="gislenescarvalho" /> </p>
 
+
+
+- 💻 Senior Frontend Developer at [SOUTH SYSTEM](https://southsystem.com.br/)<br>
+
+- 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools and Kotlin programming language**
+
+- 💬 Ask me about **javascript, react, react hooks, css3, html5, front-end development**
+
+- 📫 How to reach me **gicarvalho89@gmail.com**
+
+
+<div style="padding-top:70.000%;position:relative;align:left"><iframe src="https://gifer.com/embed/7M5g" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
  
 <center>
  <table>
