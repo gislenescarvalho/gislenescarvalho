@@ -21,7 +21,7 @@
 - 📫 How to reach me **gicarvalho89@gmail.com**
 
 
-<div style="padding-top:70.000%;position:relative;align:left"><iframe src="https://gifer.com/embed/7M5g" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
+<iframe src="https://gifer.com/embed/7M5g" width=480 height=336.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
  
 <center>
  <table>
