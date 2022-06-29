@@ -1,19 +1,20 @@
-<h1 align="center">Hi, I'm Gislene Carvalho</h1>
-<h2 align="center"> A passionate brazilian frontend developer </h3> 
-
+<h1 align="left">Hi, I'm Gislene Carvalho</h1>
+<h2 align="left"> A passionate brazilian frontend developer </h2> 
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
-<a href="https://linkedin.com/in/gislenecarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gislenecarvalho" height="30" width="40" /></a>
-<a href="https://twitter.com/gislenejs" target="blank"><img src="https://img.shields.io/twitter/follow/gislenejs?logo=twitter&style=for-the-badge" alt="gislenejs" /></a>
-<img src="https://komarev.com/ghpvc/?username=gislenescarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="gislenescarvalho" />
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gislenecarvalho/)](https://www.linkedin.com/in/gislenecarvalho/) 
+ [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/gislenescarvalho/)](https://github.com/gislenescarvalho/) 
+ [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/real_world_of_gisa)](https://www.instagram.com/real_world_of_gisa) ![](https://komarev.com/ghpvc/?username=real_world_of_gisa)
+<a href="https://twitter.com/gislenejs" target="blank"><img src="https://img.shields.io/twitter/follow/gislenejs?logo=twitter&style=for-the-badge" alt="gislenejs" /</a>
+<![](https://komarev.com/ghpvc/?username=gislenescarvalho)
 <p>
 <br/>
 <br />
  
 <img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="400" alt="Woman developer way of life and work">
 
-- 💻 Senior Frontend Developer at [SOUTH SYSTEM](https://southsystem.com.br/)
+ - 💻 Senior Frontend Developer at <strong>[SOUTH SYSTEM](https://southsystem.com.br/)</strong>
 - 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools and Kotlin programming language**
 - 💬 Ask me about **javascript, react, react hooks, css3, html5, front-end development**
 - 📫 How to reach me **gicarvalho89@gmail.com**     
