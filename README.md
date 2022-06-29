@@ -11,15 +11,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="400" alt="Woman developer way of life and work">
 
-<p align="left">
-- 💻 Senior Frontend Developer at [SOUTH SYSTEM](https://southsystem.com.br/)<br>
 
+- 💻 Senior Frontend Developer at [SOUTH SYSTEM](https://southsystem.com.br/)
 - 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools and Kotlin programming language**
-
 - 💬 Ask me about **javascript, react, react hooks, css3, html5, front-end development**
-
-- 📫 How to reach me **gicarvalho89@gmail.com**
-</p>          
+- 📫 How to reach me **gicarvalho89@gmail.com**     
 
 <center>
  <table>
