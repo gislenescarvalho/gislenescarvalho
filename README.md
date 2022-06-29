@@ -1,10 +1,8 @@
 <h1 align="left">Hi, I'm Gislene Carvalho</h1>
 
-<br />
-
 <h3 align="left">Connect with me:</h3> 
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gislenecarvalho/)](https://www.linkedin.com/in/gislenecarvalho/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/gislenescarvalho/)](https://github.com/gislenescarvalho/) ![](https://komarev.com/ghpvc/?username=gislenescarvalho)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gislenecarvalho/)](https://www.linkedin.com/in/gislenecarvalho/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/gislenescarvalho/)](https://github.com/gislenescarvalho/) ![](https://img.shields.io/twitter/follow/GisleneJS?style=social/) ![](https://komarev.com/ghpvc/?username=gislenescarvalho) 
 
 <br />
  
