@@ -17,8 +17,7 @@
 
 - 📫 How to reach me **gicarvalho89@gmail.com**
           
-<img alt="Woman developer way of life" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" style="width: 400px; display: block; opacity: 1; align: right">
-
+<img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="400" alt="Woman developer way of life and work">
 
 <center>
  <table>
