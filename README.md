@@ -21,7 +21,7 @@
 - 📫 How to reach me **gicarvalho89@gmail.com**
 
 
-<img src="https://gifer.com/embed/7M5g" min-width="250px" max-width="250px" width="250px" align="right" alt="Pain Developer Between Technologies">
+<img src="https://gifer.com/embed/7M5g" align="right" alt="Pain Developer Between Technologies">
  
 <center>
  <table>
