@@ -8,9 +8,10 @@
 <a href="https://twitter.com/gislenejs" target="blank"><img src="https://img.shields.io/twitter/follow/gislenejs?logo=twitter&style=for-the-badge" alt="gislenejs" /></a>
 <img src="https://komarev.com/ghpvc/?username=gislenescarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="gislenescarvalho" />
 <p>
-
+<br/>
+<br />
+ 
 <img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="400" alt="Woman developer way of life and work">
-
 
 - 💻 Senior Frontend Developer at [SOUTH SYSTEM](https://southsystem.com.br/)
 - 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools and Kotlin programming language**
