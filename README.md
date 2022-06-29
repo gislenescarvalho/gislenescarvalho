@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gislene Carvalho</h1>
-<h3 align="center"> 💻 - A passionate brazilian frontend developer </h3>
+<h3 align="center"> A passionate brazilian frontend developer </h3>
 
 - 💻 Senior Frontend Developer at [SOUTH SYSTEM](https://southsystem.com.br/)<br>
 
@@ -15,8 +15,6 @@
 <p align="left"> <a href="https://twitter.com/gislenejs" target="blank"><img src="https://img.shields.io/twitter/follow/gislenejs?logo=twitter&style=for-the-badge" alt="gislenejs" /></a> </p> </h3>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gislenescarvalho&show_icons=true&locale=en&layout=compact" alt="gislenescarvalho" /></p>
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gislenescarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="gislenescarvalho" /> </p>
 
  
@@ -27,6 +25,7 @@
      <a align="left" href="https://app.daily.dev/gscarvalho"><img src="https://api.daily.dev/devcards/f712d2f275d54a45913034c3afb6ee37.png?r=kno" width="250" alt="Gislene Carvalho's Dev Card"/></a> 
    </td>
    <td>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gislenescarvalho&show_icons=true&locale=en&layout=compact"      alt="gislenescarvalho" /></p>
    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gislenescarvalho&show_icons=true&count_private=true" />
    </td>
   </tr>   
