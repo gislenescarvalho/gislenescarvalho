@@ -2,14 +2,14 @@
 
 <h3 align="left">Connect with me:</h3> 
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gislenecarvalho/)](https://www.linkedin.com/in/gislenecarvalho/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/gislenescarvalho/)](https://github.com/gislenescarvalho/) ![](https://img.shields.io/twitter/follow/GisleneJS?style=social/) ![](https://komarev.com/ghpvc/?username=gislenescarvalho) 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gislenecarvalho/)](https://www.linkedin.com/in/gislenecarvalho/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/gislenescarvalho/)](https://github.com/gislenescarvalho/) ![](https://komarev.com/ghpvc/?username=gislenescarvalho) 
 
 <br />
  
 <img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="400" alt="Woman developer way of life and work">
 
- - 💻 Senior Frontend Developer at <strong>[SOUTH SYSTEM](https://southsystem.com.br/)</strong>
-- 🌱 I’m currently learning **UX/UI design, Figma, Advanced React, Bionic Reading, Web accessibility tools and Kotlin programming language**
+ - 💻 Senior Frontend Developer at <strong>[SYSMAP SOLUTIONS](https://www.sysmap.com.br/)</strong>
+- 🌱 I’m currently learning **UX/UI design, Advanced React development topics, Web accessibility tools and improve my english speaking**
 - 💬 Ask me about **javascript, react, react hooks, css3, html5, front-end development**
 - 📫 How to reach me **gicarvalho89@gmail.com**     
 
