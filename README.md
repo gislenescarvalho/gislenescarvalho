@@ -8,8 +8,8 @@
  
 <img align="right" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" width="400" alt="Woman developer way of life and work">
 
- - 💻 Senior Frontend Developer - Espresso Labs / CM Capital
-- 🌱 I’m currently learning **UX/UI design, Advanced React development topics, Angular topics, Vue, Web accessibility tools and improve my english/spanish speaking**
+ - 💻 Senior Frontend Developer - Practia Global 
+- 🌱 I’m currently learning **UX/UI design, Advanced React development topics, Angular topics, Vue, Web accessibility tools, and improving my English/Spanish speaking**
 - 💬 Ask me about **javascript, react, react hooks, css3, html5, angular, front-end development**
 - 📫 How to reach me **gicarvalho89@gmail.com**     
 
